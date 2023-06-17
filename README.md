@@ -3,7 +3,7 @@ GidaMan, a modified version of the game Pac-Man which had become an icon of the 
 
 The goal of the game is to collect dreamcatchers by eliminating all ghosts and also defeat their boss to win. One can also collect tokens, not just dreamcatchers, by destroying random crates in Dreamland.
 
-<div id="header" align="center">
+<div id="header">
   <h1>Characters</h1>
   <table>
     <tr>

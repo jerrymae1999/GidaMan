@@ -9,8 +9,6 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
     <tr>
       <th>Name</th>
       <th>Character/s</th>
-    </tr>
-    <tr>
       <th>Name</th>
       <th>Character/s</th>
     </tr>

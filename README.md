@@ -9,8 +9,8 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
     <tr>
       <th>Name</th>
       <th>Character/s</th>
-      <th>Name</th>
-      <th>Character/s</th>
+      <th>Max HP</th>
+      <th>Attack Damage (Magic Fireball)/s</th>
       <th>Name</th>
       <th>Character/s</th>
     </tr>

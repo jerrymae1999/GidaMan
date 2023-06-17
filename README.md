@@ -28,6 +28,12 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
           <li>150</li>
         </ul>
       </td>
+      <td>
+        <ul>
+          <ul>2</ul>
+          <ul>2</ul>
+        </ul>
+      </td>
       <td>Dewende</td>
       <td>
         <img src="dewende.png" alt="Dewende"/>

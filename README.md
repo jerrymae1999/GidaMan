@@ -23,7 +23,7 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
         </ul>
       </td>
       <td>
-        <ul align="left">
+        <ul>
           <ul>10</ul>
           <ul>150</ul>
         </ul>
@@ -35,15 +35,23 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
         </ul>
       </td>
     </tr>
-      <td>Dewende</td>
+    <tr>
       <td>
         <img src="dewende.png" alt="Dewende"/>
       </td>
-      <td>Manananggal</td>
+      <td>Dewende</td>
+      <td>10</td>
+      <td>2</td>
+    </tr>
+    <tr>
       <td>
         <img src="manananggal.png" alt="Manananggal"/>
       </td>
+      <td>Manananggal</td>
+      <td>10</td>
+      <td>2</td>
     </tr>
+      
     <tr>
       <td>Lucy</td>
       <td>

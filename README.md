@@ -29,10 +29,10 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
         </div>
       </td>
       <td>
-        <ul>
-          <ul>2</ul>
-          <ul>2</ul>
-        </ul>
+        <div>
+          <li>2</li>
+          <li>2</li>
+        </div>
       </td>
     </tr>
     <tr>

@@ -7,12 +7,15 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
   <h1>Characters</h1>
   <table>
     <tr>
+      <th>Characters</th>
       <th>Name</th>
-      <th>Character/s</th>
       <th>Max HP</th>
       <th>Attack Damage (Magic Fireball)/s</th>
     </tr>
     <tr>
+      <td>
+        <img src="white-lady.png" alt="WhiteLady"/>
+      </td>
       <td>
         <ul>
           <li>White Lady</li>
@@ -24,9 +27,6 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
           <li>10</li>
           <li>150</li>
         </ul>
-      </td>
-      <td>
-        <img src="white-lady.png" alt="WhiteLady"/>
       </td>
       <td>Dewende</td>
       <td>

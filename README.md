@@ -55,7 +55,7 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
       <td>Obtained by killing lurking ghosts and earn 5 points each.</td>
     </tr>
     <tr>
-      <td><img src="heart"/></td>
+      <td><img src="heart.png"/></td>
       <td>Heart</td>
       <td>Obtained by killing lurking ghosts and can refill health by 2 HP.</td>
     </tr>

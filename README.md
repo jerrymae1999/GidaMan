@@ -50,14 +50,19 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
       <th>Description</th>
     </tr>
     <tr>
-      <td><img src="dreamcatcher.png"/></td>
+      <td><img src="dreamcatcher.png" width="50px"/></td>
       <td>Dreamcatcher</td>
       <td>Obtained by killing lurking ghosts and earn 5 points each.</td>
     </tr>
     <tr>
-      <td><img src="heart.png"/></td>
+      <td><img src="heart.png" width="50px"/></td>
       <td>Heart</td>
       <td>Obtained by killing lurking ghosts and can refill health by 2 HP.</td>
+    </tr>
+    <tr>
+      <td><img src="crate.png" width="50px"/></td>
+      <td>Random Crate</td>
+      <td>Destroy random crates and obtain either a heart or a dreamcatcher.</td>
     </tr>
   </table>
 </div>

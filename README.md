@@ -15,27 +15,27 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
       <th>Character/s</th>
     </tr>
     <tr>
-      <td>Lucy</td>
+      <td>White Lady</td>
       <td>
-        <img src="lucy.png" alt="Lucy"/>
+        <img src="white-lady.png" alt="WhiteLady"/>
+      </td>
+      <td>Dewende</td>
+      <td>
+        <img src="dewende.png" alt="Dewende"/>
       </td>
       <td>Manananggal</td>
       <td>
         <img src="manananggal.png" alt="Manananggal"/>
       </td>
+    </tr>
+    <tr>
+      <td>Lucy</td>
+      <td>
+        <img src="lucy.png" alt="Lucy"/>
+      </td>
       <td>Serena</td>
       <td>
         <img src="serena.png" alt="Serena"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Dewende</td>
-      <td>
-        <img src="dewende.png" alt="Dewende"/>
-      </td>
-      <td>White Lady</td>
-      <td>
-        <img src="white-lady.png" alt="WhiteLady"/>
       </td>
     </tr>
   </table>

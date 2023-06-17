@@ -49,5 +49,10 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
       <th>Name</th>
       <th>Description</th>
     </tr>
+    <tr>
+      <td><img src="dreamcatcher.png"/></td>
+      <td>Dreamcatcher</td>
+      <td>Obtained by killing lurking ghosts and earn 5 points each.</td>
+    </tr>
   </table>
 </div>

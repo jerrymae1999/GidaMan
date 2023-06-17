@@ -39,13 +39,8 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
       </td>
     </tr>
     <tr>
-      <td>Lucy</td>
       <td>
-        <img src="lucy.png" alt="Lucy"/>
-      </td>
-      <td>White Lady</td>
-      <td>
-        <img src="white-lady.png" alt="WhiteLady"/>
+        <img src="" alt=""/>
       </td>
     </tr>
   </table>

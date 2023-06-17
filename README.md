@@ -11,11 +11,12 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
       <th>Character/s</th>
       <th>Max HP</th>
       <th>Attack Damage (Magic Fireball)/s</th>
-      <th>Name</th>
-      <th>Character/s</th>
     </tr>
     <tr>
-      <td>White Lady</td>
+      <td>
+        <a>White Lady</a>
+        <a>Boss White Lady (Red) - the death of the boss determines the end of the game</a>
+      </td>
       <td>
         <img src="white-lady.png" alt="WhiteLady"/>
       </td>

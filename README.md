@@ -40,3 +40,8 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
     </tr>
   </table>
 </div>
+
+<div id="header">
+  <h1>Tokens/Destructibles</h1>
+  
+</div>

@@ -14,8 +14,10 @@ The goal of the game is to collect dreamcatchers by eliminating all ghosts and a
     </tr>
     <tr>
       <td>
-        <a>White Lady</a>
-        <a>Boss White Lady (Red) - the death of the boss determines the end of the game</a>
+        <ol>
+          <li>White Lady</li>
+          <li>Boss White Lady (Red) - the death of the boss determines the end of the game</li>
+        </ol>
       </td>
       <td>
         <img src="white-lady.png" alt="WhiteLady"/>
